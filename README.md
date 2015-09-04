@@ -1,8 +1,10 @@
 # lisptalk
 
-1. Einarbeitung
+Einarbeitung
+============
 
-1.1 Scheme
+1. Scheme
+---------
 
 In der Einarbeitungsphase befasste ich mich mit der Zielprogrammiersprache Scheme (Lisp-Dialekt). Hierbei war der Fokus auf den AST (Abstract Syntax Tree) von Bedeutung. Folgende AST-Elemente wurden bearbeitet:
 
