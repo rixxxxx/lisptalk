@@ -32,8 +32,7 @@ P steht für Print, d.h. die Ausgabe der zuvor evaluierten Zeichen wird dem Benu
 L steht für Loop, d.h. die Eingabe ist nach der Bearbeitung der vorhergegangenen noch möglich und wartet auf neuen Input. REPL wird wieder neu angestoßen.
 
 
-1.2 Smalltalk und Squeak
-------------------------
+### 1.2 Smalltalk und Squeak
 Als weitere Einarbeitung war die Programmiersprache Smalltalk und der Entwicklungsumgebung (IDE) Squeak. Als IDE wurde Squeak mit dem Image 4.5 verwendet.
 Hierbei hat YouTube zwei User mit dem Namen _jarober_ und _Lawson English_, die sehr prägnant die Funktionen von Squeak aufgezeichnet haben. In den Videos wurden stark auf das Erlernen von Smalltalk gsetzt. Ich habe insgesamt neun Stunden Videomaterial angesehen. Die versteckten Feature der IDE sind nach und nach aufgetaucht und gut benutzt. Als Beispiel ist der Erstellung von Setter/Getter-Methoden oder Methodenkopieren auf höherer Hierarchie zu erwähnen.
 
