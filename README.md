@@ -33,13 +33,13 @@ L steht für Loop, d.h. die Eingabe ist nach der Bearbeitung der vorhergegangene
 
 
 1.2 Smalltalk und Squeak
-
+------------------------
 Als weitere Einarbeitung war die Programmiersprache Smalltalk und der Entwicklungsumgebung (IDE) Squeak. Als IDE wurde Squeak mit dem Image 4.5 verwendet.
 Hierbei hat YouTube zwei User mit dem Namen _jarober_ und _Lawson English_, die sehr prägnant die Funktionen von Squeak aufgezeichnet haben. In den Videos wurden stark auf das Erlernen von Smalltalk gsetzt. Ich habe insgesamt neun Stunden Videomaterial angesehen. Die versteckten Feature der IDE sind nach und nach aufgetaucht und gut benutzt. Als Beispiel ist der Erstellung von Setter/Getter-Methoden oder Methodenkopieren auf höherer Hierarchie zu erwähnen.
 
 
 2. Ziel und Probleme
-
+--------------------
 Ziel war es mit der Programmiersprache Smalltalk den Dialekt Scheme nachzuprogrammieren.
 Durch die zahlreichen Eindrücke von Smalltalk und das selbige zu erlernen war die Umsetzung mit unterschiedlichen Lösungsansätze behaftet.
 
@@ -56,7 +56,7 @@ Bei Testdurchläufen ist die IDE in einen Timeout gefallen und konnte nicht mehr
 Bei Namensgebung von Instanzvariablen muss beachtet werden, dass der Name _name_ von der IDE vordefiniert ist. Das führte oft dazu, dass die Kategorie SchemeEval einfach überschrieben wurde und nicht mehr genutzt werden konnte. Hierbei war die Lösung auf einen älteren Stand von Squeak zu gehen (Snapshot). Das kostete unmengen von Zeit dieses Problem zu lösen
 
 3. Arbeitsumfang
-
+----------------
 Durch die neu erlernte Sprache Smalltalk und die anfänglichen Probleme in der Implementierung ist das Ergebnis der Arbeit auf ein Minimum reduziert worden.
 - Integer als Numeric umgesetzt
 - Floats als Numeric umgesetzt
